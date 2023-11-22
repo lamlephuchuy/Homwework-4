@@ -1,0 +1,23 @@
+.InputField {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+   }
+   
+   .InputField label {
+    margin-bottom: 10px;
+    font-weight: bold;
+   }
+   
+   .InputField input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+   }
+   
+   .InputField-error {
+    color: red;
+    font-size: 0.8em;
+    margin-top: 5px;
+   }
+   

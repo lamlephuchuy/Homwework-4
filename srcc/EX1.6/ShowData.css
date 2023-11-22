@@ -1,0 +1,27 @@
+/* ShowData.css */
+
+.ShowData {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #131414;
+   }
+   
+   .ShowData dl {
+    margin: 0;
+    padding: 0;
+   }
+   
+   .ShowData dt {
+    font-weight: bold;
+    margin-bottom: 10px;
+   }
+   
+   .ShowData dd {
+    margin-left: 0;
+    margin-bottom: 10px;
+   }
+   
